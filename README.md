@@ -1,2 +1,2 @@
-# CarrefourAPI
-Regarder les produit disponible chez Carrefour et leur prix
+# IntermarcherAPI
+Regarder les produit disponible chez Intermarcher et leur prix
